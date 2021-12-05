@@ -4,9 +4,9 @@ var secrets = require('./secrets.json');
 
 module.exports = {
   siteMetadata: {
-    title: 'Jonathan Nocek',
-    author: 'Jonathan Nocek',
-    description: 'A Personal Portfolio for Jonathan Nocek',
+    title: 'Ritul Sonania',
+    author: 'Ritul Sonania',
+    description: 'A Personal Portfolio for Ritul Sonania',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
