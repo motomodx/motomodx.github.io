@@ -27,16 +27,13 @@ class Main extends React.Component {
         >
           <h2 className="major">Intro</h2>
           <p>
-            Hi! My name is Jonathan Nocek and I graduated from Illinois Wesleyan University
-            with a major in Computer Science with a minor in Data Science.
+            Hi! My name is Ritul Sonania, I have 14 years of IT industry experience, I have been working with Amdocs.
           </p>
           <p>
-            I recently started my career as a Software Engineer for Discover Financial Services. I am also currently 
-            in the application process for graduate school to continue my education in Computer Science.
+            this is a trial website.
           </p>
           <p>
-            Outside of work, I am an avid golfer and traveler. I was a member of the golf team at Illinois Wesleyan
-            Universtiy where our team captured the 2019 NCAA Divsion III National Championship. 
+            NA 
           </p>
           {close}
         </article>
