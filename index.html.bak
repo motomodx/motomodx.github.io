@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-   <!-- <title>Creative CV</title>
+    <title>Welcome, Ritul Here</title>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     <link href="css/aos.css?ver=1.1.0" rel="stylesheet">
     <link href="css/bootstrap.min.css?ver=1.1.0" rel="stylesheet">
-    <link href="css/main.css?ver=1.1.0" rel="stylesheet">  -->
+    <link href="css/main.css?ver=1.1.0" rel="stylesheet"> 
     <noscript>
       <style type="text/css">
         [data-aos] {
@@ -50,7 +50,7 @@
         <div class="content-center">
           <div class="cc-profile-image"><a href="#"><img src="images/Rituls.jpg" alt="Image"/></a></div>
           <div class="h2 title">Ritul Sonania</div>
-          <p class="category text-white">Software Development Manager</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download Resume</a>
+          <p class="category text-white">Software Development Manager</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="images/RS-1.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Get Resume</a>
         </div>
       </div>
       <div class="section">
@@ -69,7 +69,7 @@
           <div class="card-body">
             <div class="h4 mt-0 title">About</div>
             <p>Hello! I am Ritul Sonania. Software Development Manager.</p>
-            <p>I have 14 years of IT industry experience, including 6 years as leading and mentoring cross functional teams. <a href="https://templateflip.com/templates/creative-cv/" target="_blank">Learn More</a></p>
+            <p>I have 14 years of IT industry experience, including 6 years as leading and mentoring cross functional teams. <a href="https://www.linkedin.com/in/ritul" target="_blank">Learn More</a></p>
           </div>
         </div>
         <div class="col-lg-6 col-md-12">
@@ -298,7 +298,7 @@
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
             <p>Aug 2020 - Present</p>
-            <div class="h5">Amdocs</div>
+            <div class="h5">Amdocs, Pune</div>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -314,7 +314,7 @@
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
             <p>Jul 2014 - Jul 2020</p>
-            <div class="h5">Amdocs</div>
+            <div class="h5">Amdocs, Gurgaon</div>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -329,8 +329,8 @@
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
-            <p>Dec 2009 - Jun 2014</p>
-            <div class="h5">Software Developer</div>
+            <p>Jan 2008 - Jun 2014</p>
+            <div class="h5">Amdocs, Niksun - Gurgaon</div>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -368,12 +368,12 @@
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-education-header">
             <p>2001 - 2005</p>
-            <div class="h5">Bachelor's Degree</div>
+            <div class="h5">Bachelor of Engineering</div>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
-            <div class="h5">Bachelor of Engineering</div>
+            <div class="h5">Sobhasaria Engineering College, Sikar</div>
             <p class="category">Electronics and Electrical Engineering</p>
             <p>Attended with 75.25% honors.</p>
           </div>
@@ -449,7 +449,7 @@
   </div>
 </div>-->
 <div class="section" id="contact">
-  <div class="cc-contact-information" style="background-image: url('images/staticmap.png')">
+  <div class="cc-contact-information" style="background-image: url('images/staticpunemap.png')">
     <div class="container">
       <div class="cc-contact">
         <div class="row">
@@ -459,7 +459,7 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="card-body">
-                    <form action="https://formspree.io/your@email.com" method="POST">
+                    <form action="https://formspree.io/f/mbjwlrnb" method="POST">
                       <div class="p pb-3"><strong>Feel free to contact me </strong></div>
                       <div class="row mb-3">
                         <div class="col">
@@ -520,7 +520,7 @@
       <div class="container text-center"><a class="cc-facebook btn btn-link" href="#"><i class="fa fa-facebook fa-2x " aria-hidden="true"></i></a><a class="cc-twitter btn btn-link " href="#"><i class="fa fa-twitter fa-2x " aria-hidden="true"></i></a><a class="cc-google-plus btn btn-link" href="#"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a><a class="cc-instagram btn btn-link" href="#"><i class="fa fa-instagram fa-2x " aria-hidden="true"></i></a></div>
       <div class="h4 title text-center">Ritul Sonania</div>
       <div class="text-center text-muted">
-        <p>&copy; Creative CV. All rights reserved.<br>Design - <a class="credit" href="https://templateflip.com" target="_blank">TemplateFlip</a></p>
+        <p>&copy; Creative CV. All rights reserved.<br>Design - <a class="credit" href="https://google.com" target="_blank">TemplateFlip</a></p>
       </div>
     </footer>
     <script src="js/core/jquery.3.2.1.min.js?ver=1.1.0"></script>
