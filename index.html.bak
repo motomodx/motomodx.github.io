@@ -31,7 +31,7 @@
               <ul class="navbar-nav">
                 <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">About</a></li>
                 <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
-                <li class="nav-item"><a class="nav-link smooth-scroll" href="#portfolio">Portfolio</a></li>
+               <!-- <li class="nav-item"><a class="nav-link smooth-scroll" href="#portfolio">Portfolio</a></li> -->
                 <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experience</a></li>
                 <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact</a></li>
               </ul>
@@ -69,16 +69,16 @@
           <div class="card-body">
             <div class="h4 mt-0 title">About</div>
             <p>Hello! I am Ritul Sonania. Software Development Manager.</p>
-            <p>I have 14 years of IT industry experience, including 6 years as leading and mentoring cross functional teams. <a href="https://www.linkedin.com/in/ritul" target="_blank">Learn More</a></p>
+            <p>I have 14 years of IT industry experience, including 6 years as leading and mentoring cross functional teams. <a href="https://www.linkedin.com/in/ritul" target="_blank">Learn More on Linkedin</a></p>
           </div>
         </div>
         <div class="col-lg-6 col-md-12">
           <div class="card-body">
             <div class="h4 mt-0 title">Basic Information</div>
-            <div class="row">
+         <!--   <div class="row">
               <div class="col-sm-4"><strong class="text-uppercase">Age:</strong></div>
               <div class="col-sm-8">38</div>
-            </div>
+            </div> -->
             <div class="row mt-3">
               <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
               <div class="col-sm-8">ritulsonania@gmail.com</div>
@@ -110,7 +110,7 @@
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">C/C++</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div><span class="progress-value">80%</span>
               </div>
             </div>
           </div>
@@ -133,7 +133,7 @@
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">API</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value">60%</span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div><span class="progress-value">60%</span>
               </div>
             </div>
           </div>
@@ -142,7 +142,7 @@
           <div class="col-md-6">
             <div class="progress-container progress-primary"><span class="progress-badge">Java</span>
               <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75%</span>
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div><span class="progress-value">75%</span>
               </div>
             </div>
           </div>
@@ -304,7 +304,7 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Software Development Manager</div>
-            <p>Lead the team to develop solutions in agilemethodology for telecom giants (ATT, T-Mobile etc.), Project planning, addressing challenges andbudget control. Interact with clients, various stakeholders. Help accelerate organization and unit growth. Performance and salary review of team</p>
+            <p>Lead the team to develop solutions in agile methodology for telecom giants (ATT, T-Mobile etc.), Project planning, addressing challenges and budget control. Interact with clients, various stakeholders. Help accelerate organization and unit growth. Performance and salary review of team.</p>
           </div>
         </div>
       </div>
@@ -320,7 +320,7 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Scrum Master</div>
-            <p>Lead the team to design and developsoftware solution in BSS domain. Quality reviews and solution alignment. Planning goals and technical grooming ofteam</p>
+            <p>Lead the team to design and develop software solution in BSS domain. Quality reviews and solution alignment. Planning goals and technical grooming of team</p>
           </div>
         </div>
       </div>
@@ -336,7 +336,7 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Software Developer</div>
-            <p>Developed and implemented softwaresolutions based on requirements. Worked with Amdocs for Ensemble Product. Worked with Niksun India Pvt Ltd for VoIP product</p>
+            <p>Developed and implemented software solutions based on requirements. Worked with Amdocs for Ensemble Product. Worked with Niksun India Pvt Ltd for VoIP product</p>
           </div>
         </div>
       </div>
@@ -358,7 +358,7 @@
           <div class="card-body">
             <div class="h5">BITS, Pilani</div>
             <p class="category">Communication Engineering</p>
-            <p>Oncampus course CGPA 9/10, with internship in Motorola for 6 months, it was all about telecom, communication, microwaves and satellite.</p>
+            <p>On campus course, secured CGPA 9/10. Internship in Motorola for 6 months, the course was all about telecom, microwaves and satellite communication.</p>
           </div>
         </div>
       </div>
