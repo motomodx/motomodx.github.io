@@ -45,12 +45,12 @@
 <div class="profile-page">
   <div class="wrapper">
     <div class="page-header page-header-small" filter-color="green">
-      <div class="page-header-image" data-parallax="true" style="background-image: url('images/cc-bg-1.jpg')"></div>
+      <div class="page-header-image" data-parallax="true" style="background-image: url('images/cc-bg-2.jpg')"></div>
       <div class="container">
         <div class="content-center">
           <div class="cc-profile-image"><a href="#"><img src="images/Rituls.jpg" alt="Image"/></a></div>
           <div class="h2 title">Ritul Sonania</div>
-          <p class="category text-white">Software Development Manager</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="images/RS-1.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Resume</a>
+          <p class="category text-white">Software Development Manager</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="images/RS-1.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Resume</a><a class="btn btn-primary" href="images/RS-Brand.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Brand Story</a>
         </div>
       </div>
       <div class="section">
@@ -304,7 +304,14 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Software Development Manager</div>
-            <p>Lead the team to develop solutions in agile methodology for telecom giants (ATT, T-Mobile etc.), Project planning, addressing challenges and budget control. Interact with clients, various stakeholders. Help accelerate organization and unit growth. Performance and salary review of team.</p>
+            <p>
+            	<ul>
+								<li>Lead the team of 20+ members to develop solutions in agile methodology for telecom giants (ATT, T-Mobile etc.).</li>
+								<li>Project planning, addressing challenges and budget control.</li>
+								<li>Interact with clients and various stakeholders.</li>
+								<li>Help accelerate organization and unit growth.</li>
+								<li>Performance and salary review of team.</li>
+							<!--Lead the team to develop solutions in agile methodology for telecom giants (ATT, T-Mobile etc.), Project planning, addressing challenges and budget control. Interact with clients, various stakeholders. Help accelerate organization and unit growth. Performance and salary review of team.--></p>
           </div>
         </div>
       </div>
@@ -320,7 +327,11 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Scrum Master</div>
-            <p>Lead the team to design and develop software solution in BSS domain. Quality reviews and solution alignment. Planning goals and technical grooming of team</p>
+            <p>
+            	<ul>
+            		<li>Lead the team of 8+ members to design and develop software solution in BSS domain.</li>
+            		<li>Quality reviews and solution alignment.</li>
+            		<li>Planning goals and technical grooming of team</li></p>
           </div>
         </div>
       </div>
@@ -336,7 +347,11 @@
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body">
             <div class="h5">Software Developer</div>
-            <p>Developed and implemented software solutions based on requirements. Worked with Amdocs for Ensemble Product. Worked with Niksun India Pvt Ltd for VoIP product</p>
+            <p>
+            	<ul>
+            		<li>Developed and implemented software solutions based on requirements.</li>
+            		<li>Worked with Amdocs for Ensemble Product.</li>
+            		<li>Worked with Niksun India Pvt Ltd for VoIP product</li></p>
           </div>
         </div>
       </div>
